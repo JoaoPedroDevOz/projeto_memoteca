@@ -1,0 +1,39 @@
+.mural {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  margin: 1rem 0 2rem;
+}
+
+.botao {
+  margin: 5px;
+  margin-top: 70px;
+  width: 200px;
+  background-color: #154580;
+  padding: 10px;
+  border-radius: 8px;
+  border-style: none;
+  color: #F8F9FE;
+  cursor: pointer;
+  
+}
+
+.d-flex{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+
+.sem-pensamentos {
+  text-align: center;
+  padding: 2rem 0 5rem;
+}
+
+h2 {
+  font-size: 36px;
+  color: #154580;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
